@@ -1,0 +1,17 @@
+/public/*
+/hexo-org-cache/*
+/.deploy_git/*
+/db.json
+/source/hexo-org-cache/*
+/source/_posts/hexo-org-cache/*
+/source/_posts/【Class Note】曲根托福/思维导图/hexo-org-cache/*
+/source/_jupyter/.ipynb_checkpoints/
+/source/_jupyter/papers/.ipynb_checkpoints/
+/source/_jupyter/papers/*/.ipynb_checkpoints/
+/source/wiki/hexo-org-cache/*
+/source/about/hexo-org-cache/*
+/source/photo/hexo-org-cache/*
+/source/reading/author/hexo-org-cache/
+/themes/hexo-org-cache/*
+/node_modules/*
+
